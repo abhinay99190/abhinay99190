@@ -9,20 +9,17 @@
 <a href="mailto:abhinay991904@gmail.com">
   <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
 </a>
+<a href="https://abhinay99.hashnode.dev/">
+  <img align="left" width="26px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" />
+</a>
+<br><br>
 
-<br>
+💻 I'm enthusiastic about: Android Development and MERN Stack Development
 
-<!--
-**abhinay99190/abhinay99190** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 Areas of interest: MERN Stack Development, Android Development and Open Source Contribution
 
-Here are some ideas to get you started:
+👩‍💻 Learning and improving each day
 
-- 💻 I'm enthusiastic about: Android Development and MERN Stack Development
-
-- 🔍 Areas of interest: MERN Stack Development, Android Development and Open Source Conribution
-
-- 👩‍💻 Learning and improving each day
--->
 
 <br>
 <br>
