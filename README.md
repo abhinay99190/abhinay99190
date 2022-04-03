@@ -22,10 +22,18 @@
 
 
 <br>
-<br>
-<p align="down">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abhinay99190&show_icons=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinay99190" />
-</p>
 
+<table>
+  <tr>
+     <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinay99190&show_icons=true&theme=dracula" alt="abhinay-singh" /></td>
+     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinay99190&show_icons=true&theme=dark&locale=en&layout=compact" alt="abhinay-singh" /></td>
+  </tr>
+</table>
+   
+   <div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinay99190&theme=shades-of-purple" alt="abhinay-singh" />
+   </div>
+
+ [![Abhinay github activity graph](https://activity-graph.herokuapp.com/graph?username=abhinay99190&theme=react-dark)](https://github.com/abhinay99190/github-readme-activity-graph)
+   
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=abhinay99190.abhinay99190)
