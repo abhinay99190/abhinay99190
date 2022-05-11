@@ -14,9 +14,9 @@
 </a>
 <br><br>
 
-💻 I'm enthusiastic about: Android Development and MERN Stack Development
+💻 I'm enthusiastic about: MEAN and MERN Stack Development
 
-🔍 Areas of interest: MERN Stack Development, Android Development and Open Source Contribution
+🔍 Areas of interest: MERN Stack Development and Open Source Contribution
 
 👩‍💻 Learning and improving each day
 
