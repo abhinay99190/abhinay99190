@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Abhinay Singh
+## Hey , I'm Abhinay Singh <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 <a href="https://www.linkedin.com/in/abhinay-singh-2aa986211/?originalSubdomain=in">
   <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
